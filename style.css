@@ -141,7 +141,7 @@ section#extra > p{
 
 section#list > ul {
     list-style: none;
-    display: inline-block;
+    columns: 2;
 }
 article > p{
     color: black;
